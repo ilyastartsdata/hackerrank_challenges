@@ -1,4 +1,4 @@
-![Hackerrank Logo](https://github.com/ilyastartsdata/hackerrank_challenges/blob/main/HackerRank_Logo.png)
+<img src="https://github.com/ilyastartsdata/hackerrank_challenges/blob/main/HackerRank_Logo.png" width="48">
 
 # Challenges
 
