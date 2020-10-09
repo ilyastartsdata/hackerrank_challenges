@@ -1,8 +1,10 @@
-/* This document is a summary of sql challenges, which are graded as easy.
+/* 
+This document is a summary of sql challenges, which are graded as easy.
 You can find each task, query and grade 
 /*
 
-/* Task 1:
+/* 
+Task 1:
 
     Given the CITY and COUNTRY tables, query the sum of the populations of all cities where the CONTINENT is 'Asia'.
     Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
