@@ -1,5 +1,6 @@
 /* This document is a summary of sql challenges, which are graded as easy.
-You can find each task, query and grade /*
+You can find each task, query and grade 
+/*
 
 /* Task 1:
 
