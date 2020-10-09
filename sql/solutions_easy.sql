@@ -1,7 +1,7 @@
 /* 
 This document is a summary of sql challenges, which are graded as easy.
 You can find each task, query and grade 
-/*
+*/
 
 /* 
 Task 1:
@@ -38,7 +38,7 @@ Task 1:
     CAPITAL         VARCHAR2(4)
     CODE2           VARCHAR2(2)
     
-/*
+*/
 
 -- Query:
 
